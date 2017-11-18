@@ -1,3 +1,9 @@
 [submodule "blog/themes/ananke"]
 	path = blog/themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "public"]
+	path = public
+	url = git@github.com:kidmam/kidmam.github.io.git
+[submodule "blog"]
+	path = blog
+	url = https://github.com/kidmam/blog.git
