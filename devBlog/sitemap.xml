@@ -3,38 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kidmam.github.io/public/posts/my-third-post/</loc>
+    <loc>https://kidmam.github.io/devBlog/posts/my-third-post/</loc>
     <lastmod>2017-11-18T17:08:36+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kidmam.github.io/public/posts/my-second-post/</loc>
+    <loc>https://kidmam.github.io/devBlog/posts/my-second-post/</loc>
     <lastmod>2017-11-18T16:39:27+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kidmam.github.io/public/posts/my-first-post/</loc>
+    <loc>https://kidmam.github.io/devBlog/posts/my-first-post/</loc>
     <lastmod>2017-11-18T16:24:24+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kidmam.github.io/public/categories/</loc>
+    <loc>https://kidmam.github.io/devBlog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kidmam.github.io/public/posts/</loc>
+    <loc>https://kidmam.github.io/devBlog/posts/</loc>
     <lastmod>2017-11-18T17:08:36+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kidmam.github.io/public/tags/</loc>
+    <loc>https://kidmam.github.io/devBlog/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kidmam.github.io/public/</loc>
+    <loc>https://kidmam.github.io/devBlog/</loc>
     <lastmod>2017-11-18T17:08:36+09:00</lastmod>
     <priority>0</priority>
   </url>
